@@ -1,6 +1,6 @@
 // https://symmetrical-bassoon-beta.vercel.app/
 
-document.addEventListener("load", init);
+document.addEventListener("DOMContentLoaded", init);
 
 const MODE = Object.freeze({
   DEV: "DEV",
